@@ -1,0 +1,57 @@
+{
+    "name": "ShinyBobCategories",
+    "version": "0.15.2",
+    "factorio_version": "0.15",
+    "title": "ShinyBob : Categories",
+    "author": "Qumojo/qjm123, Nexela, Inequalitix, MrFreohr",
+    "dependencies":
+    [
+        "base >= 0.15.0",
+
+        "boblibrary >= 0.15.0",
+
+        "? add-loader >= 0.0.8",
+        "? loader-redux >= 0.2.0",
+        "? Loader-Furnace >= 2.0.0",
+        "? Laser_Beam_Turrets >= 0.1.8",
+        "? Loader-Furnace >= 2.0.0",
+        "? Laser_Beam_Turrets >= 0.1.8",
+        "? deforest-planner >= 0.1.0",
+        "? Better_Repair_Pack >= 0.1.0",
+        "? ModuleInserter >= 1.0.0",
+
+        "? bobassembly >= 0.15.0",
+        "? bobelectronics >= 0.15.0",
+        "? bobenemies >= 0.15.0",
+        "? boblogistics >= 0.15.0",
+        "? bobmining >= 0.15.0",
+        "? bobmodules >= 0.15.0",
+        "? bobores >= 0.15.0",
+        "? bobplates >= 0.15.0",
+        "? bobpower >= 0.15.0",
+        "? bobtech >= 0.15.0",
+        "? bobwarfare >= 0.15.0",
+        "? bobgreenhouse >= 0.15.0",
+        "? bobrevamp >= 0.15.0",
+
+        "? angelsaddons-oresilos >= 0.3.0",
+        "? angelsaddons-pressuretanks >= 0.2.0",
+        "? angelsaddons-warehouses >= 0.2.0",
+        "? angelsaddons-petrotrains >= 0.2.0",
+        "? angelsbioprocessing >= 0.4.0",
+        "? angelsinfiniteores >= 0.6.0",
+        "? angelspetrochem >= 0.5.0",
+        "? angelsrefining >= 0.7.0",
+        "? angelssmelting >= 0.3.1",
+        "? angelslogistics >= 0.2.0",
+
+        "? aai-programmable-structures >= 0.3.0",
+        "? aai-programmable-vehicles >= 0.3.0",
+        "? aai-vehicles-chaingunner >= 0.2.0",
+        "? aai-vehicles-flame-tumbler >= 0.2.0",
+        "? aai-vehicles-hauler >= 0.2.0",
+        "? aai-vehicles-laser-tank >= 0.2.0",
+        "? aai-vehicles-miner >= 0.2.0"
+    ],
+    "description": "Categories organization extracted from ShinyBob by Qumojo/qjm123 and Nexela. Graphics compression by Inequalitix."
+}
